@@ -1,0 +1,29 @@
+================================================================
+======== txAdmin v7.3.2 atop fxserver 11012 Starting - 17/11/2024, 15:29:15
+================================================================
+[15:31:42][jur_harte] created admins file
+[15:32:41][jur_harte] Changing global/fxserver settings via setup stepper.
+================================================================
+======== txAdmin v7.3.2 atop fxserver 11012 Starting - 17/11/2024, 16:01:59
+================================================================
+[16:02:19][jur_harte] logged in from 127.0.0.1 via cfxre
+[16:02:27][jur_harte] executed "STOP SERVER"
+[16:02:27][jur_harte] Resetting fxRunner settings.
+[16:02:49][jur_harte] Changing global settings via setup stepper and started Deployer.
+[16:02:55][jur_harte] Setting recipe.
+[16:03:13][jur_harte] Running recipe.
+[16:04:03][jur_harte] Completed and committed server deploy.
+================================================================
+======== txAdmin v7.3.2 atop fxserver 11012 Starting - 17/11/2024, 16:15:07
+================================================================
+[16:15:16][jur_harte] logged in from 127.0.0.1 via cfxre
+[16:16:22][jur_harte] Resetting fxRunner settings.
+[16:17:36][jur_harte] Changing fxRunner settings.
+================================================================
+======== txAdmin v7.3.2 atop fxserver 11012 Starting - 17/11/2024, 16:17:59
+================================================================
+[16:18:57][jur_harte] logged in from 127.0.0.1 via cfxre
+[16:22:51][jur_harte] Adding admin 'papierenhond'.
+[16:23:37][jur_harte] Editing user 'papierenhond'.
+[16:28:15][papierenhond] Changing own password.
+[16:28:16][papierenhond] Changing own identifiers.

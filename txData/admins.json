@@ -1,0 +1,37 @@
+[
+  {
+    "$schema": 1,
+    "name": "jur_harte",
+    "master": true,
+    "password_hash": "$2a$11$NYWDvl.BNS/lmPIbBQ9Rz.7J6A2qj09Rs6pgRlZb24VtusOTAWZ86",
+    "providers": {
+      "citizenfx": {
+        "id": "jur_harte",
+        "identifier": "fivem:98622",
+        "data": {
+          "name": "jur_harte",
+          "profile": "https://forum.cfx.re/u/jur_harte",
+          "nameid": "https://forum.cfx.re/internal/user/98622",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/jur_harte/256/445125_2.png"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "$schema": 1,
+    "name": "papierenhond",
+    "master": false,
+    "password_hash": "$2a$11$9d25kMKovffp1CEpQ9gDx.S7TeWvPCQuPuL1n8TW/5Hr1plnQupFm",
+    "providers": {
+      "discord": {
+        "id": "294165390899281922",
+        "identifier": "discord:294165390899281922",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
